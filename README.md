@@ -25,3 +25,6 @@ This project demonstrates the fundamental concept of building a recommendation e
 It covers all the essential components of a recommender system: dataset preparation, similarity calculation, recommendation generation, and result interpretation. Beyond being a simple demonstration, it has wide applicability in real-world systems where personalization is important. With further improvements, such as hybrid filtering, integration into web applications, or the use of more advanced similarity algorithms, this project could easily evolve into a production-level recommendation engine.
 
 
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/51a1cf58-e10a-4627-90c2-6f450208b39b)
